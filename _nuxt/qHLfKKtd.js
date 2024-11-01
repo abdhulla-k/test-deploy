@@ -1,0 +1,1 @@
+import{o as e,c as a,n}from"./DgvtTsqe.js";const c={__name:"vertical-div",props:{width:{type:String,default:"w-[1px]"},height:{type:String,default:"h-[450px]"},bg:{type:String,default:"bg-gradient-to-b from-gray-300 to-transparent"}},setup(t){return(r,i)=>(e(),a("div",{class:n(["min-h-[1px] min-w-[1px]",[t.width,t.height,t.bg]])},null,2))}};export{c as _};

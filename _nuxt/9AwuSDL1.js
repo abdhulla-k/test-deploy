@@ -1,0 +1,1 @@
+import{_ as t,c as o,x as s,o as c}from"./DgvtTsqe.js";const a={},n={class:"absolute w-full"};function r(e,l){return c(),o("div",n,[s(e.$slots,"default")])}const f=t(a,[["render",r]]);export{f as default};
